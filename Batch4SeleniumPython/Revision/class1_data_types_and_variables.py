@@ -6,4 +6,4 @@
 # 4. Mapping data type: dict
 # 5. Boolean type : bool
 # 6. Set data types: set, forzenset
-# Input function
+# Input function s and therir uses
